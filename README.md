@@ -1,4 +1,1 @@
 # Suburbanicity
-# SpaceTimeCrossCorrelation
-# MScResearch
-# SpaceTimeCrossCorrelation
